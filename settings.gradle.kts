@@ -6,7 +6,7 @@ pluginManagement {
         maven("https://jitpack.io")
     }
     plugins {
-        id("com.github.yamert89.snoopy") version "master-SNAPSHOT"
+        id("com.github.yamert89.snoopy") version "1.0.0"
     }
 }
 
